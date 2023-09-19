@@ -10,10 +10,7 @@ function convert_filesize($bytes, $decimals = 2)
 
 // hoofdmap ophalen
     $cwd = getcwd();
-<<<<<<< HEAD
-// todo: hier moet nog wat worden gedaan
-=======
->>>>>>> origin/main
+
 
 // checken of cwd er is:
     if (isset($_GET['cwd'])) {
